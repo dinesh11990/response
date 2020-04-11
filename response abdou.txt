@@ -1,0 +1,5 @@
+Need to confirm occurrence of the freeze  
+Need to check if impacting partial and/or Full  
+Need to check if USB used during MOTA : does MOTA stop and how (which status ?) ?  
+Need to check if the issue leads to a freeze of the system (or not)  
+Need to identify clearly impacted SW 
